@@ -5,7 +5,7 @@ tags: 算法
 
 并查集(UnionFind)主要是用来解决图论中「动态连通性」问题的，数据结构很简单，却能用来表示无向图。简单的代码如下：
 
-```cpp
+```java
 class UnionFind {
     int[] parent;
     int cnt;
