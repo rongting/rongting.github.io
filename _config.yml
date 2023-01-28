@@ -22,7 +22,7 @@ url     : # default
 baseurl : # does not include hostname
 title   : CodeRanger's Blob
 description: > # this means to ignore newlines until "Language & timezone"
-  This is the blob of CodeRanger.
+  桃李春风一杯酒，江湖夜雨十年灯
 
 
 ## => Language and Timezone
